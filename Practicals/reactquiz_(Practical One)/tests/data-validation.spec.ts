@@ -38,6 +38,7 @@ test.describe("Data Validation Tests", () => {
         page.locator('[data-testid="question-counter"]')
       ).toContainText(questionNum.toString());
 
+
       // Answer the question to move to next (except on last question)
       if (questionNum < 5) {
         await answerOptions.first().click();
@@ -53,6 +54,7 @@ test.describe("Data Validation Tests", () => {
     }
   });
 
+  
   test("TC015: Score Calculation", async ({ page }) => {
     // Start the quiz
     await page.click("text=Start Quiz");
