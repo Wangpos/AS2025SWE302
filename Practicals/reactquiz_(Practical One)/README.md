@@ -11,9 +11,10 @@ Features
 
 For the testing and execution, all tests are written and executed using [Playwright](https://playwright.dev/). Playwright enables robust browser automation for UI and functional testing.
 
-The given Github link is a Repository of the React Quiz link and how are the execution are done with the help of playwright. 
-
+You can find the complete source code and detailed instructions for running Playwright tests in the following GitHub repository: 
 [React Quiz Github Link](https://github.com/Wangpos/Reactquize_P1.git)
+
+This repository demonstrates how to execute automated tests for the React Quiz application using Playwright.
 
 ### Step 0: (Not Necessary) Connection with Slack and Github. 
 
