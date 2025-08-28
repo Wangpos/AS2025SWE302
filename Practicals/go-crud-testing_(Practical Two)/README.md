@@ -20,7 +20,7 @@ RESTful endpoints: Standard CRUD operations (GET, POST, PUT, DELETE)
 Testing Framework
 The implementation leverages Go's built-in testing capabilities:
 
-httptest package: Mock HTTP requests and response recording
+http test package: Mock HTTP requests and response recording
 Standard library: No external testing dependencies required
 Chi router: External dependency for HTTP routing
 
@@ -37,7 +37,7 @@ Each test follows a consistent pattern:
 
 State reset for test isolation
 Mock HTTP request creation
-Response recording via httptest
+Response recording via http test
 Status code verification
 Response body validation
 
