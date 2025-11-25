@@ -1,0 +1,1 @@
+# [LINK TO PRACTICAL6](https://github.com/Wangpos/swe302_practical6.git)
