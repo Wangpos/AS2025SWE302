@@ -1,0 +1,1 @@
+[Link to practical6a](https://github.com/Wangpos/practical6-nextjs-app.git)
