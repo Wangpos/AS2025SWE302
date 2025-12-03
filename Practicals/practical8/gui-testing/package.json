@@ -15,7 +15,7 @@
     "test:k6:all": "k6 run tests/k6/smoke-test.js && k6 run tests/k6/api-endpoint-test.js && k6 run tests/k6/page-load-test.js"
   },
   "dependencies": {
-    "next": "16.0.0",
+    "next": "16.0.7",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },
